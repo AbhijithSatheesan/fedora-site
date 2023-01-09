@@ -1,0 +1,409 @@
+.header{
+    background:#52a2da;
+    width:100%;
+    height:45px;
+}
+ body{ margin:0
+
+}
+.logo{
+    width:70%;
+    height:80%;
+    float: left
+    
+}
+.logoo{
+    width: 8%;
+
+    margin-top:11px;
+    margin-left:128px;
+    float:left;
+    
+ }
+ .option1{
+    background:#52a2da;
+    /* width:100;
+    height: 80%; */
+    margin-top:10px;
+    padding-left;
+    border:0;
+    font-weight: 800;
+    
+    color: aliceblue; }
+     
+       
+.optionfont{
+    font-size: 10;
+    font-weight:bold;
+
+}
+.option2{    
+background:#52a2da;
+padding-left: 500;
+color: aliceblue;
+margin-top: 11px;
+border: 0;
+font-weight: 701;
+}
+.option3{
+    background:#52a2da;
+    color: aliceblue;
+    margin-top: 11px;
+    font-weight: 701;
+    border: 0;
+}
+.header2{
+    background: aliceblue;
+    width:100%;
+    height:40px;}
+.workstation{
+    margin-top: 9px;
+    margin-left: 9%;
+}
+.overview{
+    margin-left: 50%;
+    margin-top:10px;
+    text-decoration: none;
+    font-weight:600;
+}
+.download{
+  padding-left:37px;
+  margin-top:10px;
+  text-decoration:none;
+  font-weight:600;  
+} 
+.freespace1{
+    margin-top: 100px;
+    margin-left:120px;
+    font-weight: 0px;
+    font-size: 30px;
+    font-family:var(--font-inter);
+}
+.freespace2{
+    margin-left: 120px;
+    margin-top: 10px;
+
+}
+.freespace3{
+    margin-top: 15px;
+    margin-left: 120px;
+}
+.systemdemo{
+    margin-left: 52%;
+    margin-top: -170px;
+}
+.demo{
+    width: 85%;
+}
+.blocks{
+    margin-left: 138px;
+    margin-top: 60px;
+}
+.demo1{
+    width: 35%;
+    margin-top: 50px;
+}
+.created{
+    margin-left: 711px;
+    margin-top: -170px;
+    font-size: 26px;
+}
+.container4{
+    background-color: #f8f9fa;
+    padding-bottom: 90px;
+}
+.created{
+    margin-top: -170px;
+    margin-left: 710px;
+    font-size: 25px;
+    
+}
+.description{
+    margin-left: 710px;
+    margin-top: 20px;
+}
+.description1{
+    margin-left: 710px;
+    margin-top: 30px;
+}
+.container5{
+    padding-bottom: 50px;
+    padding-top: 1px;
+    background-color: #f2f2f2;
+}
+.heading2c{
+    margin-top: 65px;
+    margin-left: 130px;
+    font-size: 25px;
+
+}
+.description2c{
+    margin-top: 30px;
+    margin-left: 130px;
+font-size: 20px;
+}
+.desktopc{
+    margin-top: -165px;
+    margin-left: 750px;
+
+}
+.desktop{
+    width: 80%;
+}
+.container6{
+    background-color: #f8f9fa;
+    padding-bottom: 70px;
+}
+.tools{
+    margin-top: 35px;
+    margin-left: 180px;
+    width: 27%;
+}
+.completec{
+    margin-top: -195px;
+}
+.complete{
+    margin-left: 710px;
+    font-size: 25px;
+}
+.description3c{
+    margin-top: 30px;
+    margin-left: 710px;
+}
+.description3{
+
+}
+.container7{
+    padding-bottom: 50px;
+    background-color: #f2f2f2;
+}
+.virtualizationc{
+    padding-top: 100px;
+}
+.virtualization{
+    margin-left: 140px;
+    font-size: 30px;
+}
+.description4c{
+    margin-top: 24px;
+    margin-left: 140px;
+}
+.description{
+    margin-top: 20px;
+    margin-left: 0px;
+}
+.green{
+    margin-top: -180px;
+    margin-left: 710px;
+    width: 40%;
+}
+.container8{
+    background-color: #f8f9fa;
+    padding-bottom: 210px;
+}
+.brick{
+    width: 28%;
+    margin-top: 60px;
+    margin-left: 180px;
+}
+.containizerc{
+    margin-top: -277px;
+    margin-left: 710px;
+    font-size: 25px;
+}
+.description5c{
+    margin-left: 710px; 
+    margin-top: 20px;
+}
+.container9{
+    background-color:#f2f2f2;
+}
+.supportresourcesc{
+    padding-top: 40px;
+    margin-left: 40%;
+    font-size: 30px;
+}
+.container10{
+    background-color: #343a40;
+    padding-bottom: 30px;
+}
+.blogo{
+    width: 9%;
+    margin-top: 47px;
+    margin-left: 275px;
+}
+.about{
+    font-weight: 600;
+    color:  #f8f9fa;
+}
+.aboutc{
+    margin-top: 30px;
+    margin-left: 270px;
+}
+.supportc{
+    font-weight: 600;
+    color:  #f8f9fa;
+    margin-top: -13px;
+}
+
+.support{
+    margin-top: 30px;
+    margin-left: 600px;
+}
+.communityc{
+    font-weight: 600;
+    color:  #f8f9fa;
+    margin-top: -18px;
+}
+
+.community{
+    margin-top: 30px;
+    margin-left: 900px;
+}
+.getfedorac{
+
+    color:  #6c757d;;
+    margin-top: 6px;
+    font-size: 11px;
+}
+
+.getfedora{
+    margin-top: 30px;
+    margin-left: 265px;
+}
+.ABOUTFEDORAC{
+
+    color:  #6c757d;;
+    margin-top: 8px;
+    font-size: 11px;
+}
+
+.ABOUTFEDORA{
+    
+    margin-left: 265px;
+}
+.SPONSORSC{
+
+    color:  #6c757d;;
+    margin-top: 10px;
+    font-size: 11px;
+}
+
+.SPONSORS{
+    
+    margin-left: 265px;
+}
+.LEGALC{
+
+    color:  #6c757d;;
+    margin-top: 12px;
+    font-size: 11px;
+}
+
+.LEGAL{
+    
+    margin-left: 265px;
+}
+.GETHELPC{
+
+    color:  #6c757d;;
+    margin-top: -83px;
+    font-size: 11px;
+}
+
+.GETHELP{
+    
+    margin-left: 600px;
+}
+.ASKFEDORAC{
+
+    color:  #6c757d;;
+    margin-top: 5px;
+    font-size: 11px;
+}
+
+.ASKFEDORA{
+    
+    margin-left: 600px;
+}
+.COMMONBUGSC{
+
+    color:  #6c757d;;
+    margin-top: 5px;
+    font-size: 11px;
+}
+
+.COMMONBUGS{
+    
+    margin-left: 600px;
+}
+.FEDORADEVELOPERPORTAL{
+
+    color:  #6c757d;;
+    margin-top: 5px;
+    font-size: 11px;
+}
+
+.FEDORADEVELOPERPORTAL{
+    
+    margin-left: 600px;
+}
+.JOINFEDORAC{
+
+    color:  #6c757d;;
+    margin-top: 5px;
+    font-size: 11px;
+}
+
+.JOINFEDORA{
+    
+    margin-left: 600px;
+}
+.FEDORAMAGAZINEC{
+
+    color:  #6c757d;;
+    margin-top: -90px;
+    font-size: 11px;
+}
+
+.FEDORAMAGAZINE{
+    
+    margin-left: 900px;
+}
+.FEDORACOMMUNITYBLOGC{
+
+    color:  #6c757d;;
+    margin-top: 3px;
+    font-size: 11px;
+}
+
+.FEDORACOMMUNITYBLOG{
+    
+    margin-left: 900px;
+}
+.FEDORAACCOUNTSYSTEMC{
+
+    color:  #6c757d;;
+    margin-top: 3px;
+    font-size: 11px;
+}
+
+.FEDORAACCOUNTSYSTEM{
+    
+    margin-left: 900px;
+}
+.redhat{
+
+        margin-left: 571px;
+        margin-top: 60px;
+        font-size: 13px;
+}
+.copyright{
+    margin-left: 550px;
+    font-size: 13px;
+}
+.copyrightC{
+    margin-top: 10px;
+    color: #f8f9fa;;
+}
+
